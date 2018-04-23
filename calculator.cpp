@@ -1,6 +1,7 @@
 /*Assignment 4: Caculator 2
 *Adrianna Smith
-*This calculator evaluates expressions given by the user*/
+*This calculator evaluates expressions given by the user
+**/
 
 
 
