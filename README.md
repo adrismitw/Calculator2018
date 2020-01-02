@@ -1,1 +1,2 @@
-# cs36300-spring2018-calculator2
+# Calculator 2018
+Simple Calculator
